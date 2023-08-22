@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Administrator\Desktop\amdocs-onb-java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1107845565.index
+2150179042.index
